@@ -13,6 +13,10 @@
 [![Gabi's github stats](https://github-readme-stats.vercel.app/api?username=mrwalnut-dev&show_icons=true&theme=tokyonight)](https://github.com/mrwalnut-dev)
 -->
 <!--
+Interesting info to continue building this
+https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+-->
+<!--
 **mrwalnut-dev/mrwalnut-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
