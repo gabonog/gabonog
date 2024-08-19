@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Favourite technologies
 
-![Bash](https://img.shields.io/badge/Bash-★★★★☆-informational?style=for-the-badge&logo=gnubash&logoColor=white&color=4EAA25)
+![Bash](https://img.shields.io/badge/Bash_-★★★★☆-informational?style=for-the-badge&logo=gnubash&logoColor=white&color=4EAA25)
 
 ![Docker](https://img.shields.io/badge/Docker-★★★★★-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 
