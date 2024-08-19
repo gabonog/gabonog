@@ -13,7 +13,7 @@ OLD
 <br>
 -->
 
-[![gabonog's github stats](https://github-readme-stats.vercel.app/api?username=gabonog&show_icons=true&theme=tokyonight)](https://github.com/gabonog)
+[![gabonog's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabonog&show_icons=true&theme=tokyonight)](https://github.com/gabonog)
 
 <!--
 Interesting info to continue building this
