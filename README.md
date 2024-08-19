@@ -1,3 +1,5 @@
+<!--
+OLD
 [![Header](https://raw.githubusercontent.com/gabonog/gabonog/main/img/header.png "Header")](https://es.linkedin.com/in/gabriel-nogueira-louzao/)
 
 ![](https://img.shields.io/badge/Linux-OS-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
@@ -9,8 +11,9 @@
 ![](https://img.shields.io/badge/HTML5-Web-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS3-Web-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 <br>
+-->
 <!--
-[![Gabi's github stats](https://github-readme-stats.vercel.app/api?username=mrwalnut-dev&show_icons=true&theme=tokyonight)](https://github.com/mrwalnut-dev)
+[![gabonog's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabonog&show_icons=true&theme=tokyonight)](https://github.com/gabonog)
 -->
 <!--
 Interesting info to continue building this
@@ -29,4 +32,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+# 👋 Hey! Welcome to my GitHub profile!
+
+- 👤 **Name**: Gabo
+- 🌍 **Location**: Pontevedra, Spain
+
+## ⚡ Favourite technologies
+
+![Bash](https://img.shields.io/badge/Bash_-★★★★☆-informational?style=for-the-badge&logo=gnubash&logoColor=white&color=4EAA25)
+
+![Docker](https://img.shields.io/badge/Docker-★★★★★-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
+
+![Python](https://img.shields.io/badge/Python-★★★★☆-informational?style=for-the-badge&logo=python&logoColor=white&color=#3776AB)
+
+<!--
+https://simpleicons.org/
+https://shields.io/badges/static-badge
 -->
