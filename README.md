@@ -12,9 +12,9 @@ OLD
 ![](https://img.shields.io/badge/CSS3-Web-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 <br>
 -->
-
+<!--
 [![gabonog's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabonog&show_icons=true&theme=tokyonight)](https://github.com/gabonog)
-
+-->
 <!--
 Interesting info to continue building this
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
@@ -33,3 +33,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hey! Welcome to my GitHub profile!
+
+👤 **Name**: Gabo
+🌍 **Location**: Pontevedra, Spain
+
+## ⚡ Favourite technologies
+![](https://img.shields.io/badge/Linux-OS-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+
