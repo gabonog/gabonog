@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 - 🌍 **Location**: Pontevedra, Spain
 
 ## ⚡ Favourite technologies
-![](https://img.shields.io/badge/Linux-Debian-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 
 ![Bash](https://img.shields.io/badge/Bash-★★★★☆-informational?style=for-the-badge&logo=gnubash&logoColor=white&color=4EAA25)
+
 ![Docker](https://img.shields.io/badge/Docker-★★★★★-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Python-★★★★☆-informational?style=for-the-badge&logo=python&logoColor=white&color=#3776AB)
+
+![Python](https://img.shields.io/badge/Python-★★★★☆-informational?style=for-the-badge&logo=python&logoColor=white&color=#3776AB)
 
 <!--
 https://simpleicons.org/
