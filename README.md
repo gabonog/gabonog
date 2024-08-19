@@ -1,3 +1,5 @@
+<!--
+OLD
 [![Header](https://raw.githubusercontent.com/gabonog/gabonog/main/img/header.png "Header")](https://es.linkedin.com/in/gabriel-nogueira-louzao/)
 
 ![](https://img.shields.io/badge/Linux-OS-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
@@ -9,9 +11,10 @@
 ![](https://img.shields.io/badge/HTML5-Web-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS3-Web-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 <br>
-<!--
-[![Gabi's github stats](https://github-readme-stats.vercel.app/api?username=mrwalnut-dev&show_icons=true&theme=tokyonight)](https://github.com/mrwalnut-dev)
 -->
+
+[![gabonog's github stats](https://github-readme-stats.vercel.app/api?username=gabonog&show_icons=true&theme=tokyonight)](https://github.com/gabonog)
+
 <!--
 Interesting info to continue building this
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
