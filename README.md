@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 # 👋 Hey! Welcome to my GitHub profile!
 
-👤 **Name**: Gabo
-🌍 **Location**: Pontevedra, Spain
+- 👤 **Name**: Gabo
+- 🌍 **Location**: Pontevedra, Spain
 
 ## ⚡ Favourite technologies
 ![](https://img.shields.io/badge/Linux-OS-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
